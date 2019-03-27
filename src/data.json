@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "from": "Jakarta",
+            "to": "Bandung",
+            "price": 1000000,
+            "date": "2019-03-05"
+        },
+        {
+            "from": "Jakarta",
+            "to": "Makasar",
+            "price": 500000,
+            "date": "2019-03-09"
+        },
+        {
+            "from": "Jakarta",
+            "to": "Solo",
+            "price": 5000000,
+            "date": "2019-05-10"
+        },
+        {
+            "from": "Padang",
+            "to": "Bandung",
+            "price": 1500000,
+            "date": "2018-03-10"
+        },
+        {
+            "from": "Jakarta",
+            "to": "Sulawesi",
+            "price": 10000000,
+            "date": "2019-10-10"
+        }
+    ]
+}

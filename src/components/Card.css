@@ -1,0 +1,14 @@
+.card {
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    padding: 10px;
+    text-align: left;
+}
+.card > table {
+    width: 100%;
+}
